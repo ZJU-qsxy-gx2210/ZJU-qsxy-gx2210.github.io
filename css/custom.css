@@ -16,7 +16,7 @@
   }
   h1#site-title {
     font-family: ZhuZiAYuanJWD;
-    font-size: 3em !important;
+    font-size: 7em !important;
   }
   a.article-title,
   a.blog-slider__title,
@@ -379,4 +379,3 @@
   #article-container figure.highlight {
     border-radius: 10px;
   }
-  
