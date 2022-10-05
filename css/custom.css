@@ -99,37 +99,37 @@
   
   /* 首页文章卡片 */
   #recent-posts > .recent-post-item {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(255, 255, 255, 1);
   }
   
   /* 首页侧栏卡片 */
   #aside-content .card-widget {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(255, 255, 255, 1);
   }
   
   /* 文章页面正文背景 */
   div#post {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(255, 255, 255, 1);
   }
   
   /* 分页页面 */
   div#page {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(255, 255, 255, 1);
   }
   
   /* 归档页面 */
   div#archive {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(255, 255, 255, 1);
   }
   
   /* 标签页面 */
   div#tag {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(255, 255, 255, 1);
   }
   
   /* 分类页面 */
   div#category {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(255, 255, 255, 1);
   }
   
   /*夜间模式伪类遮罩层透明*/
@@ -186,7 +186,7 @@
   }
   
   ::-webkit-scrollbar-thumb {
-    background-color: #425aef;
+    background-color: #3ea8cf;
     border-radius: 2em;
   }
   
@@ -196,14 +196,14 @@
   
   ::-moz-selection {
     color: #fff;
-    background-color: #425aef;
+    background-color: #3ea8cf;
   }
   
   /* 音乐播放器 */
   
-  /* .aplayer .aplayer-lrc {
+  .aplayer .aplayer-lrc {
     display: none !important;
-  } */
+  } 
   
   .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
     left: -66px !important;
