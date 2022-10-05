@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-04T12:38:03.948Z</updated>
+  <updated>2022-10-05T03:36:29.053Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,11 +18,19 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/posts/d87f7e0c.html"/>
-    <id>http://example.com/posts/d87f7e0c.html</id>
+    <link href="http://example.com/posts/test.html"/>
+    <id>http://example.com/posts/test.html</id>
     <published>2022-10-04T09:13:28.000Z</published>
-    <updated>2022-10-04T12:38:03.948Z</updated>
+    <updated>2022-10-05T03:36:29.053Z</updated>
     
+    <content type="html"><![CDATA[<div class="tip success"><p>success</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip success&quot;&gt;&lt;p&gt;success&lt;/p&gt;
+&lt;/div&gt;</summary>
+      
     
     
     
